@@ -1,4 +1,4 @@
-## **# Rainfall Prediction**
+## ** Rainfall Prediction**
 
 Rainfall Prediction Using Classification Algorithm.
 
